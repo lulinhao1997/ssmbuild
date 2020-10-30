@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="apache-tomcat-7.0">
+    <CLASSES>
+      <root url="file://D:/apache-tomcat-7.0.82" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/apache-tomcat-7.0.82/webapps/docs/appdev/sample/src" />
+      <root url="file://D:/apache-tomcat-7.0.82/webapps/examples/WEB-INF/classes" />
+      <root url="file://D:/apache-tomcat-7.0.82/webapps/examples/WEB-INF/jsp/applet" />
+      <root url="file://D:/apache-tomcat-7.0.82/webapps/examples/jsp/plugin/applet" />
+      <root url="file://D:/apache-tomcat-7.0.82/work/Catalina/localhost/HR" />
+      <root url="file://D:/apache-tomcat-7.0.82/work/Catalina/localhost/HRMS" />
+      <root url="file://D:/apache-tomcat-7.0.82/work/Catalina/localhost/HR_by_Struts2" />
+      <root url="file://D:/apache-tomcat-7.0.82/work/Catalina/localhost/SIMS" />
+      <root url="file://D:/apache-tomcat-7.0.82/work/Catalina/localhost/Student" />
+      <root url="file://D:/apache-tomcat-7.0.82/work/Catalina/localhost/_" />
+      <root url="file://D:/apache-tomcat-7.0.82/work/Catalina/localhost/bassh" />
+      <root url="file://D:/apache-tomcat-7.0.82/work/Catalina/localhost/bastruts04" />
+      <root url="file://D:/apache-tomcat-7.0.82/work/Catalina/localhost/qluzp" />
+      <root url="file://D:/apache-tomcat-7.0.82/work/Catalina/localhost/ssh1" />
+      <root url="file://D:/apache-tomcat-7.0.82/work/Catalina/localhost/struts1" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,6 @@
+com\qlu\dao\BookMapper.class
+com\qlu\controller\TestController.class
+com\qlu\controller\BookController.class
+com\qlu\service\BookServiceImpl.class
+com\qlu\service\BookService.class
+com\qlu\pojo\Books.class
